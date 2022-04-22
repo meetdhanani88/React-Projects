@@ -1,0 +1,22 @@
+.Modal{
+    background-color: rgb(0, 0, 0,0.3);
+    
+}
+.modal-dialog{
+    background-color: black;
+ 
+}
+
+ .Modal-Header{
+    background-color: #5463FF;
+}
+ .Modal-Title{
+    background-color: #5463FF;
+    color: white;
+}
+.Modal-Body{
+    background-color: #FFC300;
+}
+.Modal-Footer{
+    background-color: #D82148;
+}
